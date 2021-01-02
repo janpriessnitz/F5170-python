@@ -6,7 +6,6 @@ We observe ExB drift. If we set the direction of electric field as E ~ (1, 0, 0)
 
 Electron:
 
-<img src="ExB_electron.png"></img>
 ![ExB_electron](https://github.com/janpriessnitz/F5170-python/blob/master/3_Motion/ExB_electron.png)
 
 
@@ -15,7 +14,6 @@ Amplitude of oscillation: ~ 0.25 m, drift velocity: ~1 m/s
 
 Proton:
 
-<img src="ExB_proton.png"></img>
 ![ExB_proton](https://github.com/janpriessnitz/F5170-python/blob/master/3_Motion/ExB_proton.png)
 
 
@@ -30,13 +28,11 @@ Comparison of the amplitude of oscillation shows that the ratio of oscillation m
 
 Electron:
 
-<img src="divB_electron.png"></img>
 ![divB electron](https://github.com/janpriessnitz/F5170-python/blob/master/3_Motion/divB_electron.png)
 
 
 Positron:
 
-<img src="divB_positron.png"></img>
 ![divB_positron](https://github.com/janpriessnitz/F5170-python/blob/master/3_Motion/divB_positron.png)
 
 The electron drifts in the positive direction of the x-axis, the positron drifts the opposite way. This agrees with the theory.
